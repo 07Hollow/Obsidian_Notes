@@ -1,7 +1,7 @@
 ---
 title: "1 Networking today"
 tags: empty
-date: YYYY-MM-DD
+date: 2024-04-24
 ---
 
 > **About:** Introduction to the CCNA
