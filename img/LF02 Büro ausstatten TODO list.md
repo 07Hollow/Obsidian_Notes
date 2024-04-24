@@ -1,0 +1,10 @@
+- [x] Anschreiben ✅ 2024-02-28
+- [x] Angebot mit allen rechtlich relevanten Kosten-Positionen (siehe Plan „rechtssichere An-gebote schreiben“) ✅ 2024-02-28
+- [x] Druckkostenvergleich (nur für Drucker) ✅ 2024-02-28
+- [x] Quantitativer Angebotsvergleich ✅ 2024-02-28
+- [x] Qualitativer Angebotsvergleich (Nutzwertanalyse) ✅ 2024-02-28
+- [x] Handelswarenkalkulation ✅ 2024-02-28
+- [x] Stundenverrechnungssatz ✅ 2024-02-28
+- [x] Begründung der Auswahlentscheidung zu allen Positionen (max. eine halbe Seite pro Position) ✅ 2024-02-28
+- [x] Netzwerkplan ✅ 2024-02-28
+- [ ] 
