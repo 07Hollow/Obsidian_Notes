@@ -303,7 +303,7 @@ Various organizations have different responsibilities for promoting and creating
 
 The figure displays standards organizations involved with the development and support of the internet.
 
-![[img/Internet_Standards.png]]
+![[Internet_Standards.png]]
 
 **Internet Society (ISCO):** Responsible for promoting the open development and evolution of internet use throughout the world.
 **Internet Architecture Board (IAB):** Responsible for the overall management and development of internet standards.
